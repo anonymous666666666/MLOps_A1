@@ -77,8 +77,8 @@ Logs show training results from both train.py and train2.py
 Performance Comparison
 Model | Test MSE | Test RMSE
 ------------------------|----------|-----------
-Decision Tree Regressor | ... | ...
-Kernel Ridge Regressor | ... | ...
+Decision Tree Regressor | 10.4161 | 3.2274
+Kernel Ridge Regressor | 476.2581 | 21.8233
 ------------------------------------------------------------
 Author
 - Name: Ayush Chauhan
