@@ -2,3 +2,7 @@ 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
 
 
 https://github.com/anonymous666666666/MLOps_A1.git
+
+
+git config --global user.name "anonymous666666666"
+git config --global user.email "aychauh@amazon.com"
